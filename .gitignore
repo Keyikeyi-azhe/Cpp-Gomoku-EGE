@@ -1,0 +1,17 @@
+# 编译与 IDE 临时文件
+*.o
+*.obj
+*.gch
+*.layout
+main.exe
+.vs/
+.vscode/
+Thumbs.db
+.DS_Store
+# 本地运行数据
+**/data/network.ini
+**/data/unfinished/
+**/data/replays/
+# 图谱本机缓存
+**/graphify-out/cache/
+**/graphify-out/.graphify_*

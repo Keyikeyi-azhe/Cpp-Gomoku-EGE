@@ -1,0 +1,29 @@
+{
+  "passed": true,
+  "checks": [
+    "14 files / 164 functions / 7 enum types",
+    "source evidence",
+    "12 consecutive node drags without text selection",
+    "click after drag",
+    "source text selectable by mouse",
+    "outside release recovery",
+    "blur drag recovery",
+    "enum references",
+    "variable read/write",
+    "class methods",
+    "search",
+    "left wheel isolated and filters pinned",
+    "catalog selection keeps scroll position",
+    "left scrollbar thumb draggable",
+    "full graph no node overlap",
+    "current SVG export valid",
+    "four user operation routes",
+    "14 file reading order",
+    "no runtime errors",
+    "no external network requests"
+  ],
+  "requests": [
+    "file:///C:/%E4%B8%B4%E6%97%B6/%E8%BD%AF%E5%B7%A5%E5%88%9D%E7%BA%A7%E5%AE%9E%E8%AE%AD%E4%BA%94%E5%AD%90%E6%A3%8B/output/g2/index.html"
+  ],
+  "errors": []
+}

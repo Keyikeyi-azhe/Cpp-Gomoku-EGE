@@ -1,0 +1,70 @@
+{
+  "scope": "Gomoku3 current runtime source",
+  "prepared": "2026-10-09",
+  "encoding": "GBK",
+  "files": [
+    {
+      "file": "game_logic.h",
+      "lines": 74,
+      "sha256": "ae15e57f3ea834c565e0cc51fab495f1378f1c71e85af82c1705b4a6a285b9fa"
+    },
+    {
+      "file": "main.cpp",
+      "lines": 740,
+      "sha256": "ae26dd16c31adabdb0eca427690b944db1de217ebeee8bc2945ba726768dde94"
+    },
+    {
+      "file": "match_metadata.h",
+      "lines": 50,
+      "sha256": "3f7097b686a84ef11e8991b7449b40d7d3bb72ca1165608bae4a40aa9a8d23b3"
+    },
+    {
+      "file": "record_store.h",
+      "lines": 229,
+      "sha256": "812e71f2f3945b6c50ab85ac9bf311a3c737f80ccaa6390459b290a59c95b89a"
+    },
+    {
+      "file": "replay_logic.h",
+      "lines": 59,
+      "sha256": "e4150e7eabd7376e43e92b07757ecf3860e28001454d78f8351483998a391614"
+    },
+    {
+      "file": "ai_engine.h",
+      "lines": 298,
+      "sha256": "187649cdd31d3bcef72d85a8069a2f568bbfabf40f91d783792a6e7948b6361d"
+    },
+    {
+      "file": "network_protocol.h",
+      "lines": 166,
+      "sha256": "a31656a6b4579e0c17494b9dea95900765c6a9bbb6051a27c0eafc5257e2b0d7"
+    },
+    {
+      "file": "network_transport.h",
+      "lines": 187,
+      "sha256": "c01717f861afec9960e98da71d65b0edb5306012cfe990bbb552b49dc2bf9c55"
+    },
+    {
+      "file": "server_main.cpp",
+      "lines": 175,
+      "sha256": "5b9254e398707acea216b2b6d43e42b0d18c852cb6bd60bc71f8d85aafda6786"
+    },
+    {
+      "file": "online_ui.h",
+      "lines": 630,
+      "sha256": "bd0304a2b3146f6ba44f517583db023a214537a9b3e180b4465606f4c253d53d"
+    }
+  ],
+  "verified": [
+    "client build",
+    "server build",
+    "core_tests",
+    "stage_tests",
+    "network_tests",
+    "network_v2_tests"
+  ],
+  "not_rerun": [
+    "GUI tests",
+    "real TCP integration",
+    "cross-computer network"
+  ]
+}

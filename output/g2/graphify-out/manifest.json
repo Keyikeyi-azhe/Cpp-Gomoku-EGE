@@ -1,0 +1,86 @@
+{
+  "ai_engine.h": {
+    "mtime": 1791794058.7455282,
+    "seen": 1791794060.5397704,
+    "ast_hash": "35bce0f4eb7c653e7e12c6ebe6d33de3",
+    "semantic_hash": "35bce0f4eb7c653e7e12c6ebe6d33de3"
+  },
+  "game_actions.h": {
+    "mtime": 1791794058.7485175,
+    "seen": 1791794060.5397806,
+    "ast_hash": "f05a8723cb6210c23ff1bbb8cc5661e3",
+    "semantic_hash": "f05a8723cb6210c23ff1bbb8cc5661e3"
+  },
+  "game_draw.h": {
+    "mtime": 1791794058.7505164,
+    "seen": 1791794060.539785,
+    "ast_hash": "d6fdaeec77f4d0bfe5339582ae74fff1",
+    "semantic_hash": "d6fdaeec77f4d0bfe5339582ae74fff1"
+  },
+  "game_input.h": {
+    "mtime": 1791794058.753605,
+    "seen": 1791794060.5397875,
+    "ast_hash": "fc86893534994fde4b49c517fd50c02e",
+    "semantic_hash": "fc86893534994fde4b49c517fd50c02e"
+  },
+  "game_logic.h": {
+    "mtime": 1791794058.7556267,
+    "seen": 1791794060.53979,
+    "ast_hash": "022bd2c6b1b180ccfc65448560d575d0",
+    "semantic_hash": "022bd2c6b1b180ccfc65448560d575d0"
+  },
+  "main.cpp": {
+    "mtime": 1791794058.756629,
+    "seen": 1791794060.5397918,
+    "ast_hash": "ff59cc242087cc4695b1912a9297d675",
+    "semantic_hash": "ff59cc242087cc4695b1912a9297d675"
+  },
+  "match_metadata.h": {
+    "mtime": 1791794058.7586377,
+    "seen": 1791794060.5397944,
+    "ast_hash": "b79146d14ff58abbbf1b1d763fb23418",
+    "semantic_hash": "b79146d14ff58abbbf1b1d763fb23418"
+  },
+  "network_protocol.h": {
+    "mtime": 1791794058.7606099,
+    "seen": 1791794060.5397968,
+    "ast_hash": "be87245629bb96282fc1e2b4d1dc9184",
+    "semantic_hash": "be87245629bb96282fc1e2b4d1dc9184"
+  },
+  "network_transport.h": {
+    "mtime": 1791794058.7626407,
+    "seen": 1791794060.5397987,
+    "ast_hash": "a5e2c858de2902c46076be2310d201aa",
+    "semantic_hash": "a5e2c858de2902c46076be2310d201aa"
+  },
+  "online_ui.h": {
+    "mtime": 1791794058.7666056,
+    "seen": 1791794060.5398006,
+    "ast_hash": "2d72018ab4f9f438da996d3a42e26253",
+    "semantic_hash": "2d72018ab4f9f438da996d3a42e26253"
+  },
+  "record_store.h": {
+    "mtime": 1791794058.7700577,
+    "seen": 1791794060.5398028,
+    "ast_hash": "d455fa76931ef5aa6dc016accb2706bb",
+    "semantic_hash": "d455fa76931ef5aa6dc016accb2706bb"
+  },
+  "replay_logic.h": {
+    "mtime": 1791794058.7716596,
+    "seen": 1791794060.5398057,
+    "ast_hash": "9dd11e4b45e0837848535a272faecab7",
+    "semantic_hash": "9dd11e4b45e0837848535a272faecab7"
+  },
+  "server_main.cpp": {
+    "mtime": 1791794058.7732916,
+    "seen": 1791794060.539808,
+    "ast_hash": "e9ff8f2b69f866b72c9b43b858092108",
+    "semantic_hash": "e9ff8f2b69f866b72c9b43b858092108"
+  },
+  "ui_common.h": {
+    "mtime": 1791794058.7749214,
+    "seen": 1791794060.5398097,
+    "ast_hash": "a8448da71911bd1566dc07b618e11426",
+    "semantic_hash": "a8448da71911bd1566dc07b618e11426"
+  }
+}

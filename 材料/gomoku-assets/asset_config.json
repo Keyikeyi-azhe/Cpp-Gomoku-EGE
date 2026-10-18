@@ -1,0 +1,88 @@
+{
+  "canvas": {
+    "width": 1800,
+    "height": 1350
+  },
+  "animation": {
+    "duration_ms": 3000,
+    "fps": 30,
+    "frame_count": 90,
+    "frame_pattern": "assets/menu/frames/frame_%03d.png",
+    "first_index": 0
+  },
+  "buttons": [
+    {
+      "id": "button_1",
+      "x": 687,
+      "y": 476,
+      "width": 441,
+      "height": 95,
+      "radius": 21
+    },
+    {
+      "id": "button_2",
+      "x": 687,
+      "y": 591,
+      "width": 441,
+      "height": 95,
+      "radius": 21
+    },
+    {
+      "id": "button_3",
+      "x": 687,
+      "y": 705,
+      "width": 441,
+      "height": 95,
+      "radius": 21
+    },
+    {
+      "id": "button_4",
+      "x": 687,
+      "y": 821,
+      "width": 441,
+      "height": 95,
+      "radius": 21
+    }
+  ],
+  "notes": "Buttons are blank painted artwork. These are recommended inset interaction regions, not live controls. Adapt hover and labels in your EGE application.",
+  "board": {
+    "path": "assets/board/board.png",
+    "grid_only_path": "assets/board/grid.png",
+    "size": [
+      720,
+      720
+    ],
+    "example_origin": [
+      55,
+      90
+    ],
+    "first_intersection": [
+      52,
+      52
+    ],
+    "spacing": 44,
+    "rows": 15,
+    "columns": 15
+  },
+  "pieces": {
+    "black": "assets/pieces/black.png",
+    "white": "assets/pieces/white.png",
+    "size": [
+      44,
+      44
+    ],
+    "center": [
+      22,
+      22
+    ]
+  },
+  "backgrounds": [
+    "assets/backgrounds/bg_a.png",
+    "assets/backgrounds/bg_b.png",
+    "assets/backgrounds/bg_c.png"
+  ],
+  "ui": [
+    "assets/ui/button_320x80.png",
+    "assets/ui/button_240x60.png"
+  ]
+}

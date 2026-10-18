@@ -1,0 +1,22 @@
+{
+  "syntax_valid": true,
+  "browser": "Microsoft Edge headless",
+  "svg_nodes": 201,
+  "reader_cards": 201,
+  "tested": [
+    "initialization",
+    "12 consecutive node drags",
+    "outside release resets drag",
+    "click after drag",
+    "window blur resets drag",
+    "node details",
+    "source lines",
+    "search",
+    "reader mode",
+    "function catalog",
+    "cross links",
+    "desktop rendering",
+    "mobile reading"
+  ],
+  "runtime_errors": []
+}

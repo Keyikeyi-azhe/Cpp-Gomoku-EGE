@@ -1,0 +1,100 @@
+[
+  {
+    "file": "ai_engine.h",
+    "changed": true,
+    "code_unchanged": true,
+    "line_numbers_unchanged": true,
+    "sha256": "1c32d4723a789e4b0be54e24c86f5045232858bc720394cd7962765b6ab5fd93"
+  },
+  {
+    "file": "game_actions.h",
+    "changed": false,
+    "code_unchanged": true,
+    "line_numbers_unchanged": true,
+    "sha256": "762f62106d310da3aaedc9ebf441bc518b272d0fab16308ef1b17e6bf888f199"
+  },
+  {
+    "file": "game_draw.h",
+    "changed": false,
+    "code_unchanged": true,
+    "line_numbers_unchanged": true,
+    "sha256": "27dabd789ddb57b18cd2d1f3f9b5d6e6b7c54e83717170cd098a7663a8270825"
+  },
+  {
+    "file": "game_input.h",
+    "changed": false,
+    "code_unchanged": true,
+    "line_numbers_unchanged": true,
+    "sha256": "924c75f1758079673292419ecbc2deeaf650fc3872c63a9e5652db93a24dcb34"
+  },
+  {
+    "file": "game_logic.h",
+    "changed": true,
+    "code_unchanged": true,
+    "line_numbers_unchanged": true,
+    "sha256": "6a20ed10ed3bc1c7998f58e7182006d01ed136cc0784bd01be2d9ad8bcb89e0b"
+  },
+  {
+    "file": "main.cpp",
+    "changed": false,
+    "code_unchanged": true,
+    "line_numbers_unchanged": true,
+    "sha256": "d2ab8850bf0295c8765664fd60158582fbf0b9c4c5a15a19572111579dab050c"
+  },
+  {
+    "file": "match_metadata.h",
+    "changed": true,
+    "code_unchanged": true,
+    "line_numbers_unchanged": true,
+    "sha256": "8a68d0a81000177f7904585fba311a517ebf59a4218008d7045838bb615f5d8d"
+  },
+  {
+    "file": "network_protocol.h",
+    "changed": true,
+    "code_unchanged": true,
+    "line_numbers_unchanged": true,
+    "sha256": "509036b1adb29119951fa594b57395659f60de38f00151912cb8e4090b339674"
+  },
+  {
+    "file": "network_transport.h",
+    "changed": true,
+    "code_unchanged": true,
+    "line_numbers_unchanged": true,
+    "sha256": "230010416ba0fe5fb31d2a76e9c5abfa3b14f09872beb445fb003da923976121"
+  },
+  {
+    "file": "online_ui.h",
+    "changed": true,
+    "code_unchanged": true,
+    "line_numbers_unchanged": true,
+    "sha256": "ed1a5bf76b72ed3669e9712e21df231015e7b97610a6419adad9b8399f326fee"
+  },
+  {
+    "file": "record_store.h",
+    "changed": true,
+    "code_unchanged": true,
+    "line_numbers_unchanged": true,
+    "sha256": "7ea1acf8abe1c67f6a6077fcea7d6c841dddf79abb9d24230d59561cf217ac8e"
+  },
+  {
+    "file": "replay_logic.h",
+    "changed": true,
+    "code_unchanged": true,
+    "line_numbers_unchanged": true,
+    "sha256": "a1f418d8a040c310cedba1210298cb845da69b9444e6b4a157e4fb962d92b9b6"
+  },
+  {
+    "file": "server_main.cpp",
+    "changed": true,
+    "code_unchanged": true,
+    "line_numbers_unchanged": true,
+    "sha256": "b0f0fdca183a7505fe436c0059dc35375c27cc43cd6dc193837ae231c090f475"
+  },
+  {
+    "file": "ui_common.h",
+    "changed": false,
+    "code_unchanged": true,
+    "line_numbers_unchanged": true,
+    "sha256": "102c28f89f9c8cda5441164cd24f0e1cd9f61e49e890ed452df124514613c1d4"
+  }
+]

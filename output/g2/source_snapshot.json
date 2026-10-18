@@ -1,0 +1,16 @@
+{
+  "ai_engine.h": "695d48eea9b042331e2f6da3da12d2fd909b35e99ba57b18b23ed464d4a84ead",
+  "game_actions.h": "762f62106d310da3aaedc9ebf441bc518b272d0fab16308ef1b17e6bf888f199",
+  "game_draw.h": "27dabd789ddb57b18cd2d1f3f9b5d6e6b7c54e83717170cd098a7663a8270825",
+  "game_input.h": "924c75f1758079673292419ecbc2deeaf650fc3872c63a9e5652db93a24dcb34",
+  "game_logic.h": "71f662af7e55cf5e35d795d0aa2f9670b1b810af770fe20ac3b8bfbc92ddcdd1",
+  "main.cpp": "d2ab8850bf0295c8765664fd60158582fbf0b9c4c5a15a19572111579dab050c",
+  "match_metadata.h": "f8dca11f194414f05ca862a8b50be13496e5bf3f7e55d6202ec7c9b6241d0281",
+  "network_protocol.h": "3e90fecd8938f28cc5a66fd0b0eaddb4368f71b7bd33bd90eb0b06a69a32c457",
+  "network_transport.h": "f63cad7740c2a772f070aab07ecf099c847fc26667b431bddceceb1d1aa2260d",
+  "online_ui.h": "b6f917c6b40201c3e0990b93f5565b9e19a2510573dd8b5c0f6045f0bafe30ea",
+  "record_store.h": "b17c7ab15f9889eea597ea8c153a7b23e1f20935b04a4695cf7a86ea2a14fc1b",
+  "replay_logic.h": "6d36d7d7c33de50732c7bdd3ef9d34f493fe079fb323dd7d62c2930c2ea9129a",
+  "server_main.cpp": "0f0c32db1e9987aa6502b06ae4ad280f31e6d1c9e76df0a47913481593141c05",
+  "ui_common.h": "102c28f89f9c8cda5441164cd24f0e1cd9f61e49e890ed452df124514613c1d4"
+}

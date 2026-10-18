@@ -1,0 +1,143 @@
+{
+  "node_count": 417,
+  "unverified_node_count": 0,
+  "raw_edge_count": 770,
+  "non_object_edges": 0,
+  "missing_endpoint_edges": 0,
+  "dangling_endpoint_edges": 24,
+  "external_reference_edges": 0,
+  "self_loop_edges": 1,
+  "valid_candidate_edges": 746,
+  "exact_duplicate_edges": 0,
+  "directed_unique_endpoint_pairs": 744,
+  "directed_same_endpoint_collapsed_edges": 2,
+  "undirected_unique_endpoint_pairs": 744,
+  "undirected_same_endpoint_collapsed_edges": 2,
+  "same_endpoint_group_count": 2,
+  "relation_variant_groups": 0,
+  "source_file_variant_groups": 0,
+  "source_location_variant_groups": 2,
+  "context_variant_groups": 1,
+  "post_build_graph_type": "DiGraph",
+  "post_build_node_count": 429,
+  "post_build_edge_count": 768,
+  "post_build_error": "",
+  "producer_suppression": {
+    "path": "C:\\临时\\软工初级实训五子棋\\tmp\\g2_runtime\\graphify\\extract.py",
+    "total_sites": 12,
+    "sites": [
+      {
+        "line": 1764,
+        "name": "seen_ids",
+        "tuple_arity": 0,
+        "sample": "seen_ids = {n[\"id\"] for n in nodes}"
+      },
+      {
+        "line": 2328,
+        "name": "seen_ids",
+        "tuple_arity": 0,
+        "sample": "seen_ids = {n[\"id\"] for n in nodes}"
+      },
+      {
+        "line": 2330,
+        "name": "seen_doc_refs",
+        "tuple_arity": 0,
+        "sample": "seen_doc_refs: set[str] = set()"
+      },
+      {
+        "line": 2808,
+        "name": "seen_ids",
+        "tuple_arity": 0,
+        "sample": "seen_ids: set[str] = {n[\"id\"] for n in nodes}"
+      },
+      {
+        "line": 2955,
+        "name": "seen_ids",
+        "tuple_arity": 0,
+        "sample": "seen_ids = {n.get(\"id\") for n in nodes}"
+      },
+      {
+        "line": 3807,
+        "name": "seen_keys",
+        "tuple_arity": 0,
+        "sample": "seen_keys: set[tuple] = set()"
+      },
+      {
+        "line": 3980,
+        "name": "seen_keys",
+        "tuple_arity": 0,
+        "sample": "seen_keys: set[tuple] = set()"
+      },
+      {
+        "line": 6385,
+        "name": "seen_ids",
+        "tuple_arity": 0,
+        "sample": "seen_ids: set[str] = set()"
+      },
+      {
+        "line": 6493,
+        "name": "seen_ids",
+        "tuple_arity": 0,
+        "sample": "seen_ids: set[str] = set()"
+      },
+      {
+        "line": 6572,
+        "name": "seen_ids",
+        "tuple_arity": 0,
+        "sample": "seen_ids: set[str] = set()"
+      },
+      {
+        "line": 7087,
+        "name": "seen_ids",
+        "tuple_arity": 0,
+        "sample": "seen_ids: set[str] = set()"
+      },
+      {
+        "line": 7088,
+        "name": "seen_edges",
+        "tuple_arity": 4,
+        "sample": "seen_edges: set[tuple[str, str, str, str | None]] = set()"
+      }
+    ],
+    "error": ""
+  },
+  "examples": [
+    {
+      "source": "network_transport_netclient",
+      "target": "network_transport_h_string",
+      "edge_count": 2,
+      "relations": [
+        "references"
+      ],
+      "source_files": [
+        "C:\\临时\\软工初级实训五子棋\\Gomoku2\\network_transport.h"
+      ],
+      "source_locations": [
+        "L142",
+        "L144"
+      ],
+      "contexts": [
+        "field",
+        "generic_arg"
+      ]
+    },
+    {
+      "source": "network_transport_netclient",
+      "target": "network_transport_netclient_netclient",
+      "edge_count": 2,
+      "relations": [
+        "method"
+      ],
+      "source_files": [
+        "C:\\临时\\软工初级实训五子棋\\Gomoku2\\network_transport.h"
+      ],
+      "source_locations": [
+        "L294",
+        "L300"
+      ],
+      "contexts": [
+        ""
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "runs": [
+    {
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "files": 14,
+      "method": "代码 AST，无语义代理 API 调用；宿主说明与可视化编写的 token 不在该统计中"
+    }
+  ],
+  "total_input_tokens": 0,
+  "total_output_tokens": 0
+}

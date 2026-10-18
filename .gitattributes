@@ -1,0 +1,7 @@
+# 不对现有 GBK 源码执行换行或编码转换
+*.cpp -text
+*.h -text
+*.dev -text
+*.png binary
+*.exe binary
+*.pdf binary

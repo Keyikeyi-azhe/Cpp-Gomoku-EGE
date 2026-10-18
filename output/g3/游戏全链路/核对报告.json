@@ -1,0 +1,25 @@
+{
+  "node_count": 201,
+  "edge_count": 245,
+  "section_count": 15,
+  "function_definitions": 117,
+  "type_definitions": 21,
+  "all_symbols_covered": true,
+  "all_nodes_reachable": true,
+  "canvas_size": [
+    8734,
+    10364
+  ],
+  "sourceHashes": {
+    "game_logic.h": "6bd0bf88cc3362682d06c8d92c27db3b09b8eb4923843edf76357d0f5756f21e",
+    "main.cpp": "f387f1a5341ecb9050277922f675c0acc9c4dd198b61d7faacbbff3da64751b5",
+    "match_metadata.h": "c6c016f1fea6b69a0d3e81b50f288da79bc815790779cdf2e618ac8fa2e0c0e3",
+    "record_store.h": "36651bbcaf0f557bae09690df2595caa4c7d85564df4191a675c3994b8999232",
+    "replay_logic.h": "43184234f850056206fa19bb55d9615e2c2ad8198aaf9f686043beace89f215e",
+    "ai_engine.h": "fdaaafeb83f3353ab35b17879706b09886dc52a1a92644b6f5e9dfe009260117",
+    "network_protocol.h": "edb1a612dce37b4b0a28113ea2fb2b19b9438b6868153693098fea43605094dc",
+    "network_transport.h": "730a8ec0aa9bacf5e4cdb4bc6d6c2f2edb42012fb44bfed6eb92ed61e79faaa1",
+    "server_main.cpp": "909e31d7a0210c088ae787e3e3b001026af12846fa46bce1296672d1b33dbff8",
+    "online_ui.h": "4442be864a2c6bf7990c45b73e1f1e8a67dab22fa7f139504b685aae36672845"
+  }
+}
